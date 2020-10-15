@@ -1,0 +1,52 @@
+.navbar {
+  text-align: right;
+  background-color: black;
+  color: wheat;
+  font-size: 25px;
+  font-family: cursive;
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  left: 0px;
+}
+.navbar a:visited {
+  color: wheat;
+}
+a {
+  text-decoration: none;
+  cursor: pointer;
+  color: black;
+}
+#tea {
+  margin-top: 10px;
+  margin-left: 15px;
+}
+a {
+  color: darkgreen;
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: left;
+  text-decoration: none;
+}
+#dia {
+  background-color: darkslateblue;
+  color: aquamarine;
+  margin-top: 85px;
+}
+.par {
+  font-family: cursive;
+  font-size: 20px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.hed {
+  color: crimson;
+  padding-left: 90px;
+}
+#vedio {
+  height: 500px;
+  width: 850px;
+  margin-left: 300px;
+  margin-top: 40px;
+  margin-bottom: 50px;
+}

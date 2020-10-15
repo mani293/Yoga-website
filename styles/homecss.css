@@ -1,0 +1,94 @@
+#body{
+  font-family: cursive;
+  font-size: 20px;
+}
+.sin {
+  margin-top: 38px;
+  height: 225px;
+  width: 400px;
+}
+#head {
+  background-color: yellowgreen;
+
+  font-size: 25px;
+  font-family: cursive;
+}
+
+.heading {
+  background-color: rgba(152, 245, 12, 0.486);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font: normal;
+}
+
+.writing {
+  font-family: cursive;
+  font-size: 20px;
+}
+
+}
+.link {
+ 
+  font-size: 20px;
+  font-family: cursive;
+}
+
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+  color: black;
+}
+#sine{
+  margin-top: 70px;
+  height:200px;
+  width:400px;
+  
+}
+#ch{
+border-color: darkcyan;
+border-radius: 8px;
+border-width: 4px;
+border-style: double;
+font-family: cursive;
+background-color: powderblue;
+box-sizing: content-box;
+margin-left: 400px;
+margin-right: 400px;
+margin-top: 5px;
+}
+#chik{
+  font-family: sans-serif;
+  color:red;
+  
+}
+
+#tea {
+  margin-top: 8px;
+  margin-left: 15px;
+}
+.navbar {
+  text-align: right;
+  background-color: black;
+  color: wheat;
+  font-size: 25px;
+  font-family: cursive;
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  left: 0px;
+}
+.navbar a:visited {
+  color:wheat;
+}
+
+a {
+  color:darkgreen;
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: left;
+  text-decoration: none;
+}
+.images{
+  margin-top: 80px;
+}

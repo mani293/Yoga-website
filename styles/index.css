@@ -1,0 +1,66 @@
+.navbar {
+  text-align: right;
+  background-color: black;
+  color: wheat;
+  font-size: 25px;
+  font-family: cursive;
+  right: 0px;
+  left: 82px;
+  margin-top: 0px;
+  position: absolute;
+}
+
+a {
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: left;
+  text-decoration: none;
+}
+
+a:visited {
+  color: wheat;
+}
+
+.lob {
+  margin-top: 0px;
+  width: 1500px;
+  height: 700px;
+}
+
+.text {
+  font-family: cursive;
+  font-size: 35px;
+  color: rgba(245, 34, 6, 0.979);
+  font-style: oblique;
+  font-stretch: extra-expanded;
+}
+
+#logo {
+  margin-top: 6px;
+  margin-left: 15px;
+}
+
+#icon {
+  height: 60px;
+  width: 60px;
+  margin-top: 0px;
+  display: block;
+}
+
+#tip {
+  font-size: 12px;
+  font-family: monospace;
+}
+
+#jaya {
+  font-style: oblique;
+  font-family: cursive;
+  font-size: 30px;
+  padding-top: 0%;
+}
+.box {
+  flex: 100px;
+  border-radius: 5px;
+  border-color: darkcyan;
+  border-width: 100px;
+}

@@ -1,0 +1,70 @@
+.navbar {
+  text-align: right;
+  background-color: black;
+  color: wheat;
+  font-size: 25px;
+  font-family: cursive;
+  position: fixed;
+  top: 2px;
+  right: 0px;
+  left: 0px;
+}
+.navbar a:visited {
+  color: wheat;
+}
+a {
+  text-decoration: none;
+  cursor: pointer;
+  color: black;
+}
+#tea {
+  margin-top: 10px;
+  margin-left: 15px;
+}
+a {
+  color: darkgreen;
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: left;
+  text-decoration: none;
+}
+#head {
+  background-color: rgba(219, 188, 188, 0.658);
+  color: red;
+  margin-top: 100px;
+}
+.para {
+  padding-top: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+  font-family: cursive;
+  font-size: 20px;
+}
+.hd {
+  margin-top: 50px;
+  color: rgb(5, 102, 26);
+  margin-left: 110px;
+}
+#box {
+  color: slateblue;
+  margin-left: 110px;
+}
+#balls {
+  height: 400px;
+  width: 1200px;
+  margin-top: 60px;
+  margin-bottom: 40px;
+  margin-left: 100px;
+}
+#yog {
+  color: rgb(214, 55, 95);
+  margin-left: 100px;
+  margin-top: 50px;
+}
+.vedio {
+  height: 400px;
+  width: 800px;
+  margin-left: 300px;
+  margin-top: 70px;
+  margin-bottom: 60px;
+}

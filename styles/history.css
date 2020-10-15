@@ -1,0 +1,16 @@
+.heading {
+    font-size: 20px;
+    font-family: cursive;
+    color: rgba(0, 14, 0, 0.986);
+}
+
+.list {
+    background-color: darkkhaki;
+    font-size: 25px;
+    color: rgba(51, 1, 1, 0.952);
+    border: darkred;
+    border-style: dashed;
+    border: height:100px;
+    width: 200px;
+
+}

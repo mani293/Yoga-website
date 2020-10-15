@@ -1,0 +1,52 @@
+#form {
+  border-color: deeppink;
+  border-style: groove;
+  border-width: 20px;
+  font-family: cursive;
+  font-size: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+  background-color: rgb(178, 226, 210);
+}
+
+#head {
+  font-family: cursive;
+  background-color: darkgoldenrod;
+  color: darkslategrey;
+}
+
+.bub {
+  background-color: palevioletred;
+  color: rgb(14, 13, 13);
+  font-family: cursive;
+  font-size: 15px;
+  border-width: 4px;
+  border-style: solid;
+  border-color: rebeccapurple;
+}
+
+#tea {
+  margin-top: 10px;
+  margin-left: 15px;
+}
+.navbar {
+  text-align: right;
+  background-color: black;
+  color: wheat;
+  font-size: 25px;
+  font-family: cursive;
+}
+
+a {
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: left;
+  text-decoration: none;
+}
+
+a:visited {
+  color: wheat;
+}

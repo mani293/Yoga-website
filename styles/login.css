@@ -1,0 +1,67 @@
+.picu {
+  margin-top: 100px;
+  margin-left: 550px;
+  margin-right: 550px;
+  padding-top: 60px;
+  padding-bottom: 50px;
+  padding-left: 0px;
+  font-family: cursive;
+  font-size: 20px;
+  border: blue;
+  background-color: powderblue;
+  border-width: 3px;
+  border-style: solid;
+}
+
+#wel {
+  background-color: teal;
+  font-size: 35px;
+  font-family: cursive;
+}
+
+#cell {
+  background-color: wheat;
+  border-radius: 5px;
+  border-style: double;
+  font-family: cursive;
+  border-width: 4px;
+}
+
+input[type="text"] {
+  border-radius: 7px;
+  border-color: wheat;
+  border-style: double;
+  font-family: cursive;
+  border-width: 4px;
+}
+
+input[type="password"] {
+  border-radius: 7px;
+  border-color: wheat;
+  border-style: double;
+  font-family: cursive;
+  border-width: 4px;
+}
+
+#tea {
+  margin-top: 10px;
+  margin-left: 15px;
+}
+
+.navbar {
+  text-align: right;
+  background-color: black;
+  color: wheat;
+  font-size: 25px;
+  font-family: cursive;
+}
+a {
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: left;
+  text-decoration: none;
+}
+
+a:visited {
+  color: wheat;
+}
