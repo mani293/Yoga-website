@@ -8,6 +8,8 @@
   left: 82px;
   margin-top: 0px;
   position: absolute;
+  display: flex;
+  flex-direction: column;
 }
 
 a {
@@ -63,4 +65,10 @@ a:visited {
   border-radius: 5px;
   border-color: darkcyan;
   border-width: 100px;
+}
+
+@media screen and (min-width: 700px) {
+  .navbar {
+    flex-direction: row;
+  }
 }
